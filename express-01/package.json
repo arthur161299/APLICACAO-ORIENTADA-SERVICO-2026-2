@@ -14,7 +14,7 @@
     "dotenv",
     "back-end"
   ],
-  "author": "Márcio Bueno",
+  "author": "Arthur Silva",
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {
